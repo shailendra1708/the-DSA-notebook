@@ -6,6 +6,29 @@ A well-structured, minimalist notebook for mastering **Data Structures & Algorit
 
 ## 📚 What's Inside?
 
+the-DSA-notebook/
+├── Arrays/
+│   └── SampleArrayProblem.java
+├── BinarySearch/
+├── BitManipulation/
+├── BinaryTrees/
+├── BST/
+├── DynamicProgramming/
+├── Graphs/
+├── GreedyAlgorithms/
+├── Heaps/
+├── LinkedList/
+├── Recursion/
+├── SlidingWindow_TwoPointer/
+├── Sorting/
+├── Stack_Queue/
+├── Strings/
+├── Tries/
+├── README.md
+├── LICENSE
+└── .gitignore
+
+
 ### ✅ Sorting Techniques
 > Learn and implement essential sorting algorithms with clear logic and real interview use-cases.
 
